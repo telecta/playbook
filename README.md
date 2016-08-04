@@ -104,7 +104,7 @@ We are a Singapore incorporation so all rates are in SGD and will have VAT added
 
 International clients can pay via direct bank transfer, PayPal or Stripe.
 
-The process will start after the contract has been payed and the client has payed for the first iteration.
+The process will start after the contract has been signed and the client has payed for the first iteration.
 
 ## How We Operate
 
