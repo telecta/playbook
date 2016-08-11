@@ -122,7 +122,7 @@ We work on client iterations from Monday to Friday. Since the team and clients a
 
 Full-time developer make their own decisions about how much holiday they’d like to take. We try to make sure that everyone takes 30 days a year.
 
-Team members announce their holiday plans on Slack to check for scheduling issues. If there are no major problems, they then add their holiday dates into our shared Google Calendar.
+Team members announce their holiday plans on Slack to check for scheduling issues. If there are no major problems, they then add their holiday dates into our shared Google Calendar marked with Yellow.
 
 To minimise holiday disruptions, we ask that developer try and plan holidays to avoid departing mid iteration. Since iterations run Wednesday to Tuesday, this means that departing on Wednesdays, and returning on Tuesdays is easiest for everyone.
 
@@ -171,8 +171,8 @@ One of our most important cultural values is that we will never settle. This mea
 
 #### OKRs
 
-We believe in using this to set individual goals or long term goals which eventually will broaden our knowlengde base and increase the team's strength. These goals should be fairly ambitious, if you're over or under your goal by the time of evaluation we 'll use this again to set the next goal or pivot.
-OKRs are not synonymous with employee evaluations.
+We believe in using this to set individual goals or long term goals which eventually will broaden our knowlengde base and increase the team's strength. These goals should be fairly ambitious, if you're over or under your goal by the time of evaluation we 'll use this again to set the next goal or pivot. OKRs are not synonymous with employee evaluations.
+OKRs are registered in Trello with a description of your goal and a due date.
 
 ## New Hires
 
