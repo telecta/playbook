@@ -147,13 +147,15 @@ Collaborators will be added to the project management tools (such as Trello) tha
 
 ### Internal Communication
 
-We use Slack for internal chatter, including marketing discussion, and general chat between developer.
+We use Slack for internal chatter, including marketing discussion, and general chat between developers.
 
 For all internal communication that requires a task to be completed use Trello.
 
-As for the tools we use for each project—that really depends on the project. We’ll often use Trello to run projects, but if the client has a defined workflow and we need to integrate into it, we’ll switch from anything from GitHub issues, to apps such as JIRA.
+As for the tools we use for each project—that really depends on the project. We’ll often use Pivotal Tracker to run projects, but if the client has a defined workflow and we need to integrate into it, we’ll switch from anything from GitHub issues, to apps such as JIRA.
 
-Internal calls usually happen over Skype—we feel the audio quality is better than Google Hangouts. They are always video calls.
+Internal calls usually happen over Skype—we feel the audio quality is better than Google Hangouts. There are always video calls.
+
+Since some of our developers are located in the same cities we meet up for social food and drinks. This usually happens on the last Thursday of every month. Before each meetup we all join in on a Hangout talk about how the month went and potential topics for the evening.
 
 ### Pairing
 
@@ -173,6 +175,8 @@ One of our most important cultural values is that we will never settle. This mea
 
 We believe in using this to set individual goals or long term goals which eventually will broaden our knowlengde base and increase the team's strength. These goals should be fairly ambitious, if you're over or under your goal by the time of evaluation we 'll use this again to set the next goal or pivot. OKRs are not synonymous with employee evaluations.
 OKRs are registered in Trello with a description of your goal and a due date.
+
+Also described in this article [Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/).
 
 ## New Hires
 
