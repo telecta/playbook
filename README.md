@@ -249,7 +249,7 @@ To bootstrap a project we usually use the following gems/modules.
 
 * [Ruby on Rails](http://rubyonrails.org/) - Web Application Framework.
 * [Devise](https://github.com/plataformatec/devise) - Flexible authentication solution for Rails with Warden
-* CanCanCan -  Authorization Gem for Ruby on Rails.
+* [CanCanCan](https://github.com/CanCanCommunity/cancancan) -  Authorization Gem for Ruby on Rails.
 * [Datagrid](https://github.com/bogdan/datagrid) - Gem to create tables grids with sortable columns and filters.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
 * [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes.
