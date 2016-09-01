@@ -270,7 +270,17 @@ When the client requires a more advanced frontend and the User Experence becomes
 
 For the client this means rapidly developed, beautiful and intuitive user interfaces. There are numerous examples out there, but most commonly known on Facebook and the Facebook apps on iOS and Android.
 
-#### The deliverables
+#### Phoenix for highly iteractive/real-time applications
+
+As users become more demanding they will naturally require applications that are more interactive and require real-time interactions with their fellow users.
+
+The [Phoenix Framework](http://www.phoenixframework.org/) has been spesifically designed to support next-generation web applications. Applying the convetions of [Ruby on Rails](http://rubyonrails.org/) framework, developers can rapidly build applications that are highly iteratcive while supporting serving millions of users.
+
+To bootstrap a project we usually use the following packges:
+
+* 
+
+### The deliverables
 
 At the end of the development we'll end up with a repository containing:
 
