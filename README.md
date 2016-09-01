@@ -33,8 +33,10 @@
 	* [Pre-kickoff](#pre-kickoff)
 	* [Day 1](#day-1)
 	* [Bootstrapping](#bootstrapping)
-		* [Frontend framework](#frontend-framework)
-		* [The deliverables](#the-deliverables)
+		* [Rails for fast market entry](#rails-for-fast-market-entry)
+			* [Frontend framework](#frontend-framework)
+		* [ReactJS for awesome frontends and mobile](#reactjs-for-awesome-frontends-and-mobile)
+	* [The deliverables](#the-deliverables)
 
 ## About Us
 
@@ -258,16 +260,15 @@ To bootstrap a project we usually use the following gems/modules.
 * [Phony Rails](https://github.com/joost/phony_rails) - This Gem adds useful methods to your Rails app to validate, display and save phone numbers.
 * [Money Rails](https://github.com/RubyMoney/money-rails) - Integration of RubyMoney - Money with Rails.
 
+###### Frontend framework for Rails
 
-### ReactJS for awesome frontends and mobile
+Our preferred choice is currently [Twitter Bootstrap](http://getbootstrap.com/), will wil be used in the majority of our project with overrides where nessesary.
+
+#### ReactJS for awesome frontends and mobile
 
 When the client requires a more advanced frontend and the User Experence becomes a crucial part of the application we resort to [ReactJS](https://facebook.github.io/react/). ReactJS is a pure Javascript framework for build user interfaces currently developed by Facebook. React came in with a huge hype and provided everything that was promised.
 
 For the client this means rapidly developed, beautiful and intuitive user interfaces. There are numerous examples out there, but most commonly known on Facebook and the Facebook apps on iOS and Android.
-
-#### Frontend framework
-
-Our current choice is currently Twitter Bootstrap, will wil be used in the majority of our project with overrides where nessesary.
 
 #### The deliverables
 
