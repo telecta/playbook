@@ -234,13 +234,9 @@ Write more about agile here.
 
 We see the importance of rapid-prototyping and transparency. Our first goal is for the client to see the result of development fairly quickly and that the work is transparent. The client should be able to follow up on ongoing work so there will be no major changes, surprises or regressions in the development.
 
-As for this we've built several bootstrapping tool that we use to initialize the project and launch the  site.
-
-#### Platforms
-
 Before we start the project we decide on the technology best suited for the project.
 
-##### Rails for fast market entry
+#### Rails for fast market entry
 
 From our experience it has shown that the 
 [Ruby on Rails](http://rubyonrails.org/) framework can bring a product to the market more quickly than the alternatives. As a product of a wast community it supports excellent rapid development capabilities, with good standards when it comes to applicaiton performance and security.
