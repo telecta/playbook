@@ -36,6 +36,7 @@
 		* [Rails for fast market entry](#rails-for-fast-market-entry)
 			* [Frontend framework](#frontend-framework)
 		* [ReactJS for awesome frontends and mobile](#reactjs-for-awesome-frontends-and-mobile)
+		* [Phoenix for highly iteractive/real-time applications](#phoenix-for-highly-iteractivereal-time-applications)
 	* [The deliverables](#the-deliverables)
 
 ## About Us
