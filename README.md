@@ -261,8 +261,6 @@ To bootstrap a project we usually use the following gems/modules.
 * [Phony Rails](https://github.com/joost/phony_rails) - This Gem adds useful methods to your Rails app to validate, display and save phone numbers.
 * [Money Rails](https://github.com/RubyMoney/money-rails) - Integration of RubyMoney - Money with Rails.
 
-###### Frontend framework for Rails
-
 Our preferred choice is currently [Twitter Bootstrap](http://getbootstrap.com/), will wil be used in the majority of our project with overrides where nessesary.
 
 #### ReactJS for awesome frontends and mobile
@@ -276,10 +274,6 @@ For the client this means rapidly developed, beautiful and intuitive user interf
 As users become more demanding they will naturally require applications that are more interactive and require real-time interactions with their fellow users.
 
 The [Phoenix Framework](http://www.phoenixframework.org/) has been spesifically designed to support next-generation web applications. Applying the convetions of [Ruby on Rails](http://rubyonrails.org/) framework, developers can rapidly build applications that are highly iteratcive while supporting serving millions of users.
-
-To bootstrap a project we usually use the following packges:
-
-* 
 
 ### The deliverables
 
