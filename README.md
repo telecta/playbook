@@ -236,9 +236,32 @@ We see the importance of rapid-prototyping and transparency. Our first goal is f
 
 As for this we've built several bootstrapping tool that we use to initialize the project and launch the  site.
 
-1. fill out
-2. fill out
-3. more stuff
+#### Platforms
+
+Before we start the project we decide on the technology best suited for the project.
+
+##### Rails for fast market entry
+
+From our experience it has shown that the 
+[Ruby on Rails](http://rubyonrails.org/) framework can bring a product to the market more quickly than the alternatives. As a product of a wast community it supports excellent rapid development capabilities, with good standards when it comes to applicaiton performance and security.
+
+With a large community behind us we large modular applicaitons with less code ownership as modules used in the applicaiton will be maintained by the community. 
+
+The Rails and agile community has every strong bonds. This means [Test-driven developemt](https://en.wikipedia.org/wiki/Test-driven_development), [Object-oriented design](https://en.wikipedia.org/wiki/Object-oriented_design) and [less repeated code](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
+
+To bootstrap a project we usually use the following gems/modules.
+
+* [Ruby on Rails](http://rubyonrails.org/) - Web Application Framework.
+* [Devise](https://github.com/plataformatec/devise) - Flexible authentication solution for Rails with Warden
+* CanCanCan -  Authorization Gem for Ruby on Rails.
+* [Datagrid](https://github.com/bogdan/datagrid) - Gem to create tables grids with sortable columns and filters.
+* [Simple Form](https://github.com/plataformatec/simple_form) - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+* [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes.
+* [Searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy with Rails and Elasticsearch.
+* [Title](https://github.com/calebthompson/title) - i18n your `<title>`
+* [Phony Rails](https://github.com/joost/phony_rails) - This Gem adds useful methods to your Rails app to validate, display and save phone numbers.
+* [Money Rails](https://github.com/RubyMoney/money-rails) - Integration of RubyMoney - Money with Rails.
+
 
 #### Frontend framework
 
