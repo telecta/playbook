@@ -230,8 +230,6 @@ We work together to set out priorities for the iteration and break down weekly m
 
 We use Trello for collaboration with the client. This allows us to get a good grip of the amount of work and prioritize the tasks accordningly.
 
-Write more about agile here.
-
 ### Bootstrapping
 
 We see the importance of rapid-prototyping and transparency. Our first goal is for the client to see the result of development fairly quickly and that the work is transparent. The client should be able to follow up on ongoing work so there will be no major changes, surprises or regressions in the development.
