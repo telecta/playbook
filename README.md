@@ -15,6 +15,7 @@
 		* [NDAs](#ndas)
 		* [Scope and billing](#scope-and-billing)
 * [How We Operate](#how-we-operate)
+	* [Scrum](#scrum)
 	* [The Workday](#the-workday)
 	* [Holidays](#holidays)
 	* [Remote Work](#remote-work)
@@ -27,7 +28,7 @@
 * [New Hires](#new-hires)
 	* [What we look for](#what-we-look-for)
 	* [Hiring process](#hiring-process)
-* [Iterations](#iterations)
+* [Sprints](#sprints)
 	* [Teams](#teams)
 	* [Schedules](#schedules)
 	* [Pre-kickoff](#pre-kickoff)
@@ -42,7 +43,7 @@
 
 ### Mission
 
-We're a fully remote development team. We build products to grow and scale companies. Our goal is to show that it is possible for a team to live apart and deliver industry leading solutions. Teams and communities can collaborate across borders and continents and still be as efficient as the tranditional approach. What is important is the attitude towards learning, improving and craftsmanship, not the hours spend in an office space.
+We're a fully remote development team. We build products to grow and scale companies. Our goal is to show that it is possible for a team to live apart and deliver industry leading solutions. Teams and communities can collaborate across borders and continents and still be as efficient as the tranditional approach. Our philosophy is always that the number of hours worked has no correlation with the quality of work produced.
 
 ### Internal Priorities
 
@@ -56,7 +57,7 @@ We're a fully remote development team. We build products to grow and scale compa
 
 New projects come about when the client fills out our contact form or by sending a email directly to enquiries inbox.
 
-We have a Zapier hook, which adds the enquiry as a task inside our Pitches project inside Trello. Pitches are sorted according to their current status: iceboxed, paused, qualifying, negotiating. The whole team is added as a follower to the ongoing pitch, so they’re kept informed.
+We have a Zapier hook, which adds the enquiry as a task inside our Pitches project inside Asana. Pitches are sorted according to their current status: iceboxed, paused, qualifying, negotiating. The whole team is added as a follower to the ongoing pitch, so they’re kept informed.
 
 In order to progress, enough members of the team must express interest in the project for us to think we could assemble a team to work on it. If there’s no team interest, we’ll apologetically decline the lead. Where appropriate, we’ll offer a suggestion for where they might look next.
 
@@ -98,7 +99,7 @@ We price and bill projects on a flat weekly rate according to the number of deve
 When we're able to gain consesnus for the project and assemble a time we'll send over and Engagement summary which sets out:
 
 * The number of team members.
-* The number of weeks being booked for the project and a start date for the first iteration.
+* The number of weeks being booked for the project and a start date for the first sprint.
 * The broad project goal.
 * The price per team member, per week.
 
@@ -106,9 +107,13 @@ We are a Singapore incorporation so all rates are in SGD and will have VAT added
 
 International clients can pay via direct bank transfer, PayPal or Stripe.
 
-The process will start after the contract has been signed and the client has payed for the first iteration.
+The process will start after the contract has been signed and the client has payed for the first sprint.
 
 ## How We Operate
+
+### Scrum
+
+We use [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) as our main agile methodology. We belive that to operate as a mondern and efficient consultancy today you have to embrace change and constantly focus on improving products.
 
 ### The Workday
 
@@ -116,17 +121,17 @@ The workday for a developer is 8 working hours—while in rare situations it may
 
 As a team, we are highly productive and invest heavily in tools to allow us to be this way. Our philosophy is always that the number of hours worked has no correlation with the quality of work produced.
 
-When working on a project iteration, the amount of time that will be spent on client work will be up to 7 hours (lunch break not included) in a day. The remaining hour in the day goes towards off-iteration work such as internal reviews, research, planning and internal work, all of which allows us to deliver better results when we’re on a iteration.
+When working on a project sprint, the amount of time that will be spent on client work will be up to 7 hours (lunch break not included) in a day. The remaining hour in the day goes towards off-sprint work such as internal reviews, research, planning and internal work, all of which allows us to deliver better results when we’re on a sprint.
 
 ### Holidays
 
-We work on client iterations from Monday to Friday. Since the team and clients are entirely remote, we don’t stop client work on public holidays. Although it’s rare for us to work over Christmas and New Year.
+We work on client sprints from Monday to Friday. Since the team and clients are entirely remote, we don’t stop client work on public holidays. Although it’s rare for us to work over Christmas and New Year.
 
 Full-time developer make their own decisions about how much holiday they’d like to take. We try to make sure that everyone takes 30 days a year.
 
 Team members announce their holiday plans on Slack to check for scheduling issues. If there are no major problems, they then add their holiday dates into our shared Google Calendar marked with Yellow.
 
-To minimise holiday disruptions, we ask that developer try and plan holidays to avoid departing mid iteration. Since iterations run Wednesday to Tuesday, this means that departing on Wednesdays, and returning on Tuesdays is easiest for everyone.
+To minimise holiday disruptions, we ask that developer try and plan holidays to avoid departing mid sprint. Since sprints run Wednesday to Tuesday, this means that departing on Wednesdays, and returning on Tuesdays is easiest for everyone.
 
 ### Remote Work
 
@@ -190,25 +195,25 @@ We look for talented, cross-functional developer. Since we do a lot of work with
 
 A new developer would usually get in touch through our job application form or by sending an email to our jobs inbox.
 
-This will get piped through Zapier into Trello where everybody can see and ready for the team to make comments and reply.
+This will get piped through Zapier into Asana where everybody can see and ready for the team to make comments and reply.
 
-If we've never worked together before the developer will join the first available iteration to see how it goes.
+If we've never worked together before the developer will join the first available sprint to see how it goes.
 
 If the developer is at a novice/intermediate level we'll evalute further training and the developer will go through our standard traning process.
 
-## Iterations
+## Sprints
 
 ### Teams
 
 We hold fast to the philosophy that great results on complex challenges come from building a great team around the problem. We don’t believe that any of our developer should be working solo.
 
-So we build small, cross-functional teams for each project. This means that depending on the project needs, we’ll typically have 2 developers working on each client iteration.
+So we build small, cross-functional teams for each project. This means that depending on the project needs, we’ll typically have 2 developers working on each client sprint.
 
-We also don’t feel that great work comes when our attention is split between multiple projects. A consistent project team, which doesn’t change on a regular basis, is the best way to build great relationships with our clients and to make sure that team is productive and understands the project deeply. So team members will stay on the same project for the whole iteration, working full workweeks on that project, rather than working on multiple projects at once.
+We also don’t feel that great work comes when our attention is split between multiple projects. A consistent project team, which doesn’t change on a regular basis, is the best way to build great relationships with our clients and to make sure that team is productive and understands the project deeply. So team members will stay on the same project for the whole sprint, working full workweeks on that project, rather than working on multiple projects at once.
 
 ### Schedules
 
-Team schedules are shown in Google Calendar, and teams are responsible for managing their own schedules and also requesting help from other team members, as needed. Where possible, we will aim to avoid having iterations run back-to-back. Downtime in between iterations is for internal work, including marketing, blogging, and building team tools.
+Team schedules are shown in Google Calendar, and teams are responsible for managing their own schedules and also requesting help from other team members, as needed. Where possible, we will aim to avoid having sprints run back-to-back. Downtime in between sprints is for internal work, including marketing, blogging, and building team tools.
 
 ### Pre-kickoff
 
@@ -226,7 +231,7 @@ Getting solid answers on these points will have a huge impact on the quality of 
 
 During the first day we start out by using the information received by the client up front. We'll spend a few hours looking at the information at hand and understanding the client's vision. We'll contact the client directly if we find any issue with the provided information or we feel something is missing.
 
-We work together to set out priorities for the iteration and break down weekly milestones.
+We work together to set out priorities for the sprint and break down weekly milestones.
 
 We use Trello for collaboration with the client. This allows us to get a good grip of the amount of work and prioritize the tasks accordningly.
 
@@ -270,7 +275,7 @@ For the client this means rapidly developed, beautiful and intuitive user interf
 
 As users become more demanding they will naturally require applications that are more interactive and require real-time interactions with their fellow users.
 
-The [Phoenix Framework](http://www.phoenixframework.org/) has been spesifically designed to support next-generation web applications. Applying the convetions of [Ruby on Rails](http://rubyonrails.org/) framework, developers can rapidly build applications that are highly iteratcive while supporting serving millions of users.
+The [Phoenix Framework](http://www.phoenixframework.org/) has been spesifically designed to support next-generation web applications. Applying the convetions of [Ruby on Rails](http://rubyonrails.org/) framework, developers can rapidly build applications that are highly interactive while supporting serving millions of users.
 
 ### The deliverables
 
