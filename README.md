@@ -275,7 +275,7 @@ For the client this means rapidly developed, beautiful and intuitive user interf
 
 As users become more demanding they will naturally require applications that are more interactive and require real-time interactions with their fellow users.
 
-The [Phoenix Framework](http://www.phoenixframework.org/) has been spesifically designed to support next-generation web applications. Applying the convetions of [Ruby on Rails](http://rubyonrails.org/) framework, developers can rapidly build applications that are highly interactive while supporting serving millions of users.
+The [Phoenix Framework](http://www.phoenixframework.org/) has been spesifically designed to support next-generation web applications. Applying the convetions of [Ruby on Rails](http://rubyonrails.org/) framework, developers can rapidly build applications that are highly interactive while serving millions of users.
 
 ### The deliverables
 
