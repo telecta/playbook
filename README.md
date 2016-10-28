@@ -55,7 +55,7 @@ We're a fully remote development team. We build products to grow and scale compa
 
 ### The Enquiry
 
-New projects come about when the client fills out our contact form or by sending a email directly to enquiries inbox.
+New projects come about when the client fills out our contact form or by sending an email directly to enquiries inbox.
 
 We have a Zapier hook, which adds the enquiry as a task inside our Pitches project inside Asana. Pitches are sorted according to their current status: iceboxed, paused, qualifying, negotiating. The whole team is added as a follower to the ongoing pitch, so they’re kept informed.
 
